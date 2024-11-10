@@ -1,0 +1,6 @@
+framework module Pods_MovieDBPractice {
+  umbrella header "Pods-MovieDBPractice-umbrella.h"
+
+  export *
+  module * { export * }
+}
